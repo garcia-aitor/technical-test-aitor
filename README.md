@@ -1,4 +1,4 @@
-# Test technique Dougs - Aitor García
+# Test technique - Aitor García
 
 ## Requirements
 
